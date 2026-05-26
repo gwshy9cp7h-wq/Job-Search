@@ -1,0 +1,11 @@
+.env
+.msal_token_cache.json
+.outlook_session/
+.job_boards_session/
+digests/
+logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
